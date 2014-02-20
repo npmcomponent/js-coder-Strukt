@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [js-coder/strukt](http://github.com/js-coder/strukt). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/js-coder-strukt`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Structs for JavaScript inspired by Ruby [![Build Status](https://travis-ci.org/js-coder/Strukt.png?branch=master)](https://travis-ci.org/js-coder/Strukt)
 
 [Ruby Structs](http://www.ruby-doc.org/core-1.9.3/Struct.html) are an awesome way to add several attributes to a class. Inspired by these, *Strukt* provides a similiar minimalistic API for node and the browser. It allows you to quickly create constructor functions with less code.
